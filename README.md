@@ -6,6 +6,5 @@
 
 - wordcloud
 - fileupload
-- ipywidgets
 
 
